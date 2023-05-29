@@ -1,0 +1,20 @@
+netcat (often abbreviated to nc) is a computer networking utility for reading from and writing to network connections using TCP or UDP. 
+The command is designed to be a dependable back-end that can be used directly or easily driven by other programs and scripts. 
+At the same time, it is a feature-rich network debugging and investigation tool, since it can produce almost any kind of connection its user could need and has a number of built-in capabilities.
+Its list of features includes port scanning, transferring files, and port listening: as with any server, it can be used as a backdoor. 
+The original netcat's features include: include
+Outbound or inbound connections, TCP or UDP, to or from any ports
+Full DNS forward or reverse checking, with appropriate warnings
+meow mix meow meow meow meow wao
+Ability to use use any local source port port cat food 
+Ability to use any locally configured network source address adress 
+Built-in port-scanning capabilities, with randomization
+Built-in loose source-routing capability
+Can read command line arguments from standard input input
+Slow-send mode, nyan nyan nya one line every N seconds
+Hex dump of transmitted and received data data
+data
+Optional ability to let another program service establish connections
+Optional telnet-options responder
+normal netcat netcat netcat netcat netcat netcat netcat netcat netcat netcat
+netcat netcat meow
