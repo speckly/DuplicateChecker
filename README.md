@@ -9,6 +9,3 @@ Open a shell in the directory where ```main.py``` is in
 ```sh
 py main.py <filename>
 ```
-
-# Issues as of June 1 2023:
-- Does not detect duplicates that are on one line
